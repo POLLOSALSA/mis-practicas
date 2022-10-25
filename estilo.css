@@ -1,0 +1,85 @@
+html
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+th
+{
+    background-color: #3f4061d5;
+}
+td{
+    background-color: bisque;
+}
+
+
+table, th, td {
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+header
+ {   background-color: #3f4061d5;
+    padding:3rem 2rem;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline: 1px solid rgb(30, 3, 3);
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body
+{
+    margin: 0;
+    background-color: #b9b9b9d5;
+}
+
+img
+{
+    width: 500px;
+}
+article
+{
+    background-color: #fff;
+    margin: 1rem 23.7rem;
+    border-radius: 0.5rem;
+
+}
+article section h1
+{
+    padding-top: 8px ;
+}
+section article:hover
+{
+    transition: box-shadow 0.3s ease ;
+    box-shadow: 0 0.1rem 0.4rem black;
+    cursor: pointer;
+}
+#section
+{
+    text-align: center;   
+}
+table, th, td
+{
+    border: 5px solid red groove;
+    border-collapse: collapse;
+}
+a{
+    transition: color 0.3s;
+    text-decoration: underline;
+    color: black;
+}
+a:hover
+{
+    color: #ffffff;
+}
+footer section
+{
+    float: right;
+}
+
+footer
+{
+    background-color: #605e5ed5;
+    padding:2rem 1rem;
+}

@@ -1,0 +1,37 @@
+.titu {
+    color: blueviolet;
+    text-align: center;
+    
+}
+
+header
+
+    {border: 7px red groove;
+    background-color: rgb(163, 9, 9);
+    font-family:'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    }
+
+.img
+{
+    border: 7px blue groove;
+    border-radius: 7px;
+   
+}
+
+body {
+    background-color: gray;
+    color: rgb(255, 255, 255);
+}
+.holo
+{
+    text-align: center;
+}
+
+a:hover
+{
+    background-color: orange;
+    cursor: pointer;
+    border: 7px blue groove;
+
+}
